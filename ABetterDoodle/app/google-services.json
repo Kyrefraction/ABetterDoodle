@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "734885942305",
+    "firebase_url": "https://utopian-button-191600.firebaseio.com",
+    "project_id": "utopian-button-191600",
+    "storage_bucket": "utopian-button-191600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734885942305:android:fd87328e85513ec2",
+        "android_client_info": {
+          "package_name": "betterdoodle.project.mmu.ac.uk.abetterdoodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734885942305-f633sop6toufp8msr50omp97tep0to4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYQOZB__BRLRliQT05eyDUIjWQc0oXTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
